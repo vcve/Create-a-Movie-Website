@@ -15,24 +15,24 @@ import fresh_tomatoes
 # class instantiating section: {The movie website}
 
 the_shawshank_redemption = media.Movie("The Shawshank Redemption",
-                                       "Two imprisoned men bond over a number of years, finding solace and\
+"Two imprisoned men bond over a number of years, finding solace and\
 eventual redemption through acts of common decency.",
-                                       "https://img1.doubanio.com/lpic/s27998208.jpg",  # noqa
-                                       "https://www.youtube.com/watch?v=AAzVYa3L31M")  # noqa
+"https://img1.doubanio.com/lpic/s27998208.jpg",  
+"https://www.youtube.com/watch?v=AAzVYa3L31M")  
 leon = media.Movie("Leon",
-                   "Mathilda, a 12-year-old girl, is reluctantly \
+"Mathilda, a 12-year-old girl, is reluctantly \
 taken in by Léon, a professional assassin,after her family is \
 murdered. Léon and Mathilda form an unusual relationship, as \
 she becomes his protégée and learns the assassin's trade.",
-                   "https://img3.doubanio.com/view/photo/photo/public/p2168338256.jpg",  # noqa
-                   "https://www.youtube.com/watch?v=OFHoSvkfyRY")  # noqa
+"https://img3.doubanio.com/view/photo/photo/public/p2168338256.jpg",  # noqa
+"https://www.youtube.com/watch?v=OFHoSvkfyRY")  # noqa
 
 
 Ba_wang_bie_ji = media.Movie("Farewell My Concubine",
-                             "The story of two men, who met as apprentices in the Peking Opera, and stayed\
+"The story of two men, who met as apprentices in the Peking Opera, and stayed\
 friends for over 50 years.",
-                             "https://upload.wikimedia.org/wikipedia/zh/0/0c/Bawangbieji.jpg",  # noqa
-                             "https://www.youtube.com/watch?v=npNscbT5xwI")  # noqa
+"https://upload.wikimedia.org/wikipedia/zh/0/0c/Bawangbieji.jpg",  # noqa
+"https://www.youtube.com/watch?v=npNscbT5xwI")  # noqa
 
 
 # appending movies into a list:
