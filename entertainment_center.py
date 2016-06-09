@@ -17,21 +17,33 @@ import fresh_tomatoes
 the_shawshank_redemption = media.Movie("The Shawshank Redemption",
 "Two imprisoned men bond over a number of years, finding solace and\
 eventual redemption through acts of common decency.",
+<<<<<<< HEAD
 "https://img1.doubanio.com/lpic/s27998208.jpg",  
+=======
+"img/img-1.ipg",  
+>>>>>>> master
 "https://www.youtube.com/watch?v=AAzVYa3L31M")  
 leon = media.Movie("Leon",
 "Mathilda, a 12-year-old girl, is reluctantly \
 taken in by Léon, a professional assassin,after her family is \
 murdered. Léon and Mathilda form an unusual relationship, as \
 she becomes his protégée and learns the assassin's trade.",
+<<<<<<< HEAD
 "https://img3.doubanio.com/view/photo/photo/public/p2168338256.jpg",  # noqa
+=======
+"img/img-2.ipg",  
+>>>>>>> master
 "https://www.youtube.com/watch?v=OFHoSvkfyRY")  # noqa
 
 
 Ba_wang_bie_ji = media.Movie("Farewell My Concubine",
 "The story of two men, who met as apprentices in the Peking Opera, and stayed\
 friends for over 50 years.",
+<<<<<<< HEAD
 "https://upload.wikimedia.org/wikipedia/zh/0/0c/Bawangbieji.jpg",  # noqa
+=======
+"img/img-3.ipg",  
+>>>>>>> master
 "https://www.youtube.com/watch?v=npNscbT5xwI")  # noqa
 
 
