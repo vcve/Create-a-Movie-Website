@@ -15,24 +15,19 @@ import fresh_tomatoes
 # class instantiating section: {The movie website}
 
 the_shawshank_redemption = media.Movie("The Shawshank Redemption",
-"Two imprisoned men bond over a number of years, finding solace and\
-eventual redemption through acts of common decency.",
-"img/img-1.ipg",  
-"https://www.youtube.com/watch?v=AAzVYa3L31M")  
+	"Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+	"img/img-1.ipg",  
+	"https://www.youtube.com/watch?v=AAzVYa3L31M")  
 leon = media.Movie("Leon",
-"Mathilda, a 12-year-old girl, is reluctantly \
-taken in by Léon, a professional assassin,after her family is \
-murdered. Léon and Mathilda form an unusual relationship, as \
-she becomes his protégée and learns the assassin's trade.",
-"img/img-2.ipg",  
-"https://www.youtube.com/watch?v=OFHoSvkfyRY")  # noqa
+	"Mathilda, a 12-year-old girl, is reluctantly taken in by Léon, a professional assassin,after her family is murdered. Léon and Mathilda form an unusual relationship, as she becomes his protégée and learns the assassin's trade.",
+	"img/img-2.ipg",  
+	"https://www.youtube.com/watch?v=OFHoSvkfyRY")  # noqa
 
 
 Ba_wang_bie_ji = media.Movie("Farewell My Concubine",
-"The story of two men, who met as apprentices in the Peking Opera, and stayed\
-friends for over 50 years.",
-"img/img-3.ipg",  
-"https://www.youtube.com/watch?v=npNscbT5xwI")  # noqa
+	"The story of two men, who met as apprentices in the Peking Opera, and stayed friends for over 50 years.",
+	"img/img-3.ipg",  
+	"https://www.youtube.com/watch?v=npNscbT5xwI")  # noqa
 
 
 # appending movies into a list:
